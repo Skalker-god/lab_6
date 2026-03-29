@@ -1,4 +1,8 @@
 ## Latest Release Info
+- Version: v1.0.9
+- PR Title: Update ci.yml
+- Chuck Norris Joke: Chuck Norris passes the dutchie on the RIGHT hand side.
+## Latest Release Info
 - Version: v1.0.8
 - PR Title: setup ci cd
 
