@@ -1,4 +1,10 @@
 ## Latest Release Info
+- Version: v1.0.8
+- PR Title: setup ci cd
+
+Remove an empty line from the CI workflow
+- Chuck Norris Joke: The fastest way to a man's heart is Chuck Norris' fist.
+## Latest Release Info
 - Version: v1.0.7
 - PR Title: Update release.yml
 - Chuck Norris Joke: When Chuck Norris visits his ranch, he always makes sure to take a ride on Sherman, his Cape Buffalo.
