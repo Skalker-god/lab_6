@@ -1,3 +1,7 @@
+## Latest Release Info
+- Version: v1.0.7
+- PR Title: Update release.yml
+- Chuck Norris Joke: When Chuck Norris visits his ranch, he always makes sure to take a ride on Sherman, his Cape Buffalo.
 # React + TypeScript + Vite
 
 
